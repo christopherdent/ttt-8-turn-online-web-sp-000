@@ -7,6 +7,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
+turn(board)
+
 puts "Where would you like to go?"
 
 user_input = gets.strip
