@@ -9,4 +9,3 @@ display_board(board)
 
 turn(board)
 
-p
