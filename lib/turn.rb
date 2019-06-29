@@ -41,6 +41,5 @@ def turn(board)
   value = gets.strip
     
   
-end
-   
+
 end
